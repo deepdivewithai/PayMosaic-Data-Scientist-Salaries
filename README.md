@@ -1,3 +1,3 @@
 # PayMosaic Data Scientist Salaries
 
-[Link to EDA.ipynb](https://nbviewer.jupyter.org/github/deepdivewithai/your_repository/blob/main/EDA.ipynb)
+[Open EDA.ipynb](https://github.com/deepdivewithai/PayMosaic-Data-Scientist-Salaries/blob/main/EDA.ipynb)

@@ -1,6 +1,5 @@
-# PayMosaic-Data-Scientist-Salaries
+# PayMosaic Data Scientist Salaries
 
-jupyter nbconvert --to html [EDA.ipynb](https://github.com/deepdivewithai/PayMosaic-Data-Scientist-Salaries/blob/main/EDA.ipynb)
+[Link to EDA.html](https://github.com/deepdivewithai/PayMosaic-Data-Scientist-Salaries/blob/main/EDA.html)
 
-
-<iframe src="https://github.com/your_username/your_repository/blob/main/your_notebook.html"></iframe>
+<iframe src="https://github.com/deepdivewithai/PayMosaic-Data-Scientist-Salaries/blob/main/EDA.html"></iframe>
